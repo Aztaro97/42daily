@@ -1,6 +1,5 @@
 "use client";
 
-import React from "react";
 import { createGlobalStyle, CSSObject } from "styled-components";
 import tw, { theme, globalStyles } from "twin.macro";
 
